@@ -1,4 +1,4 @@
-# Web-scraper-for-ecommerce-website-daraz.com.np-
+# Web scraper for ecommerce website daraz.com.np
 
  
 ## If this violates any copyright or raises any legal issues. Please inform me. It will be removed.
@@ -37,7 +37,7 @@ changed.( the scraping is totally based on CSS)
    *  *It will simply store all the scraped data into the data.csv file
  
 ### Following data will be extracted
-  * * Product
+  * Product
  * Category
  * Brand
  * Price 
