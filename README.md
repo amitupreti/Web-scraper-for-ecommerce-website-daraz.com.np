@@ -3,7 +3,7 @@
  
 ## If this violates any copyright or raises any legal issues. Please inform me. It will be removed.
 
-This the link to a data corpus from daraz.com.np
+This the link to already extracted data corpus from daraz.com.np
 `https://github.com/nOOBIE-nOOBIE/Daraz-online-shopping-data-corpus/`
 
 
