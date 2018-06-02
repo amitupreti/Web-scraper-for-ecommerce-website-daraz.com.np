@@ -37,4 +37,12 @@ changed.( the scraping is totally based on CSS)
    *  *It will simply store all the scraped data into the data.csv file
  
 ### Following data will be extracted
- #### [Product,Category, Brand, Price ,Seller_name, Average_Product_rating, Buyer_comments, Buyer_comment_title, Buyer_product_review] . 
+  * * Product
+ * Category
+ * Brand
+ * Price 
+ * Seller_name 
+ * Average_Product_rating
+ * Buyer_comments
+ * Buyer_comment_title
+ * Buyer_product_review
