@@ -10,7 +10,7 @@ This the link to already extracted data corpus from daraz.com.np
 ## Notes:
      Operating System: Linux
      Language:         python3
-     libraries:        Scrapy, system, chdir   
+     libraries:        Scrapy 
 
      This scraper was purely  built for research purpose. 
 
