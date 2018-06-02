@@ -15,7 +15,7 @@ This the link to already extracted data corpus from daraz.com.np
      This scraper was purely  built for research purpose. 
 
 
-#### you may need to edit the code at daraz/daraz/darazall.py. If the website changes in future
+#### you may need to edit the code at daraz/daraz/spiders/darazall.py. If the website changes in future
 
 
 Please note that you might need to make some changes to the scraper 
